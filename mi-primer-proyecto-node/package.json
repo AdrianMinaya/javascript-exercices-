@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de javascript con node ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "keywords": [
+    "holamund",
+    "first",
+    "project"
+  ],
+  "author": "Adrian Minaya",
+  "license": "ISC"
+}
